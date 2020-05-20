@@ -1,2 +1,1 @@
-# Data_Engineering
-Data Engineering NanoDegree Project
+This repo records project I have done when I take Data Engineering NanoDegree
